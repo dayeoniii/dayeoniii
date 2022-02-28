@@ -1,5 +1,6 @@
 <!-- ![header](http://capsule-render.vercel.app/api?type=slice$color=auto&height=300&section=header&text=DaYeonKim&fontSize=90) -->
 <h1 align="center" fontSize=90>DaYeonKim</h1>
+<h3 align="center">💛 Love to keep learning and challenging myself 🏃‍♀️</h3>
 <h3 align="center">⚒ Tech Stack ⚒</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
